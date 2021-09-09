@@ -3,7 +3,7 @@
 <div>
   <a href="https://github.com/FabioOMorais">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabioOMorais&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioOMorais&theme=dark"/>
+  <img height="180em" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioOMorais&theme=dark"/>
 </div>
   
   ## Linguagens que eu uso no meu dia:
